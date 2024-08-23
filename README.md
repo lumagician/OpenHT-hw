@@ -1,3 +1,8 @@
+# FORK: OpenHT-hw but for HF
+Using the existing Hardware design of the OpenHT I'm building an HF Transceiver.
+
+
+---
 # OpenHT-hw
 Hardware part of the OpenHT - an open-source, SDR handheld transceiver.
 
